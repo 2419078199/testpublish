@@ -1,0 +1,8 @@
+D:\Training\testpublish\WebTest\WebTest\obj\Release\net6.0\PubTmp\Out\Dockerfile
+D:\Training\testpublish\WebTest\WebTest\obj\Release\net6.0\PubTmp\Out\WebTest.exe
+D:\Training\testpublish\WebTest\WebTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Training\testpublish\WebTest\WebTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Training\testpublish\WebTest\WebTest\obj\Release\net6.0\PubTmp\Out\WebTest.dll
+D:\Training\testpublish\WebTest\WebTest\obj\Release\net6.0\PubTmp\Out\WebTest.deps.json
+D:\Training\testpublish\WebTest\WebTest\obj\Release\net6.0\PubTmp\Out\WebTest.runtimeconfig.json
+D:\Training\testpublish\WebTest\WebTest\obj\Release\net6.0\PubTmp\Out\WebTest.pdb

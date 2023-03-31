@@ -24,3 +24,4 @@ D:\Training\testpublish\WebTest\WebTest\obj\Debug\net6.0\refint\WebTest.dll
 D:\Training\testpublish\WebTest\WebTest\obj\Debug\net6.0\WebTest.pdb
 D:\Training\testpublish\WebTest\WebTest\obj\Debug\net6.0\WebTest.genruntimeconfig.cache
 D:\Training\testpublish\WebTest\WebTest\obj\Debug\net6.0\ref\WebTest.dll
+D:\Training\testpublish\WebTest\WebTest\bin\Debug\net6.0\Dockerfile
